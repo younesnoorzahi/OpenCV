@@ -26,3 +26,4 @@ OpenCV-Python makes use of Numpy, which is a highly optimized library for numeri
 <h1>3. Additional Resources</h1>
 
 - <a href="https://docs.opencv.org/4.x/">OpenCV Documentation</a>
+- <a href="https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html">OpenCV Python Tutorials</a>
