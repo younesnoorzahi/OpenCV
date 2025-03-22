@@ -9,6 +9,9 @@ OpenCV-Python makes use of Numpy, which is a highly optimized library for numeri
 
 <h1>1. Install OpenCV</h1>
 <p>You can install OpenCV using pip. Open a terminal or command prompt and run:</p>
-``` pip install opencv-python ```
-<p>If you need additional modules (e.g., contrib modules), you can install ``` opencv-contrib-python ```:</p>
-``` pip install opencv-contrib-python ```
+
+``pip install opencv-python``
+
+<p>If you need additional modules (e.g., contrib modules), you can install ``opencv-contrib-python``:</p>
+
+``pip install opencv-contrib-python``
