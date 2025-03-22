@@ -1,3 +1,4 @@
+<img src="opencv.png" alt="">
 <h1>OpenCV-Python</h1>
 <p>OpenCV-Python is a library of Python bindings designed to solve computer vision problems.
 
