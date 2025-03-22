@@ -22,3 +22,7 @@ OpenCV-Python makes use of Numpy, which is a highly optimized library for numeri
 ``import cv2``
 ``print(cv2.__version__)``
 <p>If the installation is successful, this will print the version of OpenCV installed.</p>
+
+<h1>3. Additional Resources</h1>
+
+- <a href="https://docs.opencv.org/4.x/">OpenCV Documentation</a>
