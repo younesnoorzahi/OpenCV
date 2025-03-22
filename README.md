@@ -19,7 +19,6 @@ OpenCV-Python makes use of Numpy, which is a highly optimized library for numeri
 <h1>2. Verify Installation</h1>
 <p>After installation, you can verify that OpenCV is installed correctly by running the following Python code:</p>
 
-``import cv2
-<br>
-print(cv2.__version__)``
+``import cv2``
+``print(cv2.__version__)``
 <p>If the installation is successful, this will print the version of OpenCV installed.</p>
