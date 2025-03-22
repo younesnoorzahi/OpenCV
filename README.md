@@ -10,20 +10,3 @@ OpenCV-Python makes use of Numpy, which is a highly optimized library for numeri
 <h1>1. Install OpenCV</h1>
 <p>You can install OpenCV using pip. Open a terminal or command prompt and run:</p>
 <span id="text-to-copy" onclick="copyText()">pip install opencv-python</span>
-
-
-
-
-
-
-
-
-
-function copyText() {
-    const text = document.getElementById("text-to-copy").innerText;
-    navigator.clipboard.writeText(text).then(() => {
-        alert("متن کپی شد: " + text);
-    }).catch(err => {
-        console.error("خطا در کپی کردن متن: ", err);
-    });
-}
