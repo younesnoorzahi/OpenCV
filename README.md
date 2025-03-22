@@ -7,5 +7,8 @@ Compared to languages like C/C++, Python is slower. That said, Python can be eas
 
 OpenCV-Python makes use of Numpy, which is a highly optimized library for numerical operations with a MATLAB-style syntax. All the OpenCV array structures are converted to and from Numpy arrays. This also makes it easier to integrate with other libraries that use Numpy such as SciPy and Matplotlib.</p>
 
-### 1. Install OpenCV
+<h1>1. Install OpenCV</h1>
+<p>You can install OpenCV using pip. Open a terminal or command prompt and run:</p>
 ``` pip install opencv-python ```
+<p>If you need additional modules (e.g., contrib modules), you can install ``` opencv-contrib-python ```:</p>
+``` pip install opencv-contrib-python ```
